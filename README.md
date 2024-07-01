@@ -1,8 +1,13 @@
 Name: Anmol Goel
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4WD2553
+
 Domain: Web 
+
 Duration: JUNE 20th,2024 to july 20th,2024
+
 Mentor: Neela Santhosh Kumar
 
 Overview of the Project
